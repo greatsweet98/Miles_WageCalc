@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Miles_WageCalc</string>
+    <string name="emptitle">Wage Calculator</string>
+    <string name="empname">Employee</string>
+    <string name="empsalary">Current Salary</string>
+    <string name="emptax">Tax</string>
+    <string name="empnsal">Net Salary</string>
+
+    <string name="btncov">Convert</string>
+    <string name="btncle">Clear</string>
+</resources>
